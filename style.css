@@ -43,6 +43,19 @@
     display: flex;
     align-items: end;
     gap: 30px;
-    
+}
+.q4{
+    display: flex;
+    margin-top: 50px;
+}
+.zq4{
+    width: 308px;
+    height: 320px;
+    box-shadow: 10px 10px 10px #F9F9F9;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
 }
 
