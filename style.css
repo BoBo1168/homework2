@@ -23,3 +23,26 @@
     cursor: pointer;
     background-color: white;
 }
+.q2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 70px;
+}
+.zq3{
+    background-image: url(Image\ \(13\).png);
+    width: 956px;
+    height: 590px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    margin-top: 20px; 
+    margin-left: 50px;
+}
+.q3{
+    display: flex;
+    align-items: end;
+    gap: 30px;
+    
+}
+
