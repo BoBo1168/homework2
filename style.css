@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+.full{
+    max-width: 1280px;
+    margin: auto;
+    font-family: Open Sans;
+}
+.full1{
+    max-width: 1200px;
+    margin: auto;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button1{
+    width: 92px;
+    height: 42px;
+    border-radius: 35px;
+    border-color: #999999;
+    cursor: pointer;
+    background-color: white;
+}
