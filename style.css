@@ -63,4 +63,35 @@
     justify-content: space-between;
     margin-top: 100px;
 }
+.q6{
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.q7{
+    display: flex;
+}
+.zq7{
+    width: 640px;
+    height: 400px;
+    background-color: #F9D15C;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.q8{
+    display: flex;
+    gap: 20px;
+}
+.zq8{
+    border: 1px solid #E8E8E8;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    line-height: 26px;
+}
 
